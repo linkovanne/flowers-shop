@@ -1,2 +1,2 @@
 # flowersShop
-diploma project
+HTML + CSS study project
